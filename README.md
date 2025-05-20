@@ -33,5 +33,5 @@ Demonstrar as boas práticas sugeridas por Uncle Bob com exemplos didáticos, di
 Você pode clonar este repositório e explorar os exemplos em qualquer editor de código que suporte Python:
 
 ```bash
-git clone https://github.com/seu-usuario/clean_code.git
+git clone https://github.com/lnegreiros/clean_code.git
 cd clean_code
